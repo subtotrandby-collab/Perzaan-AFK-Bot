@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "KAIF",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "TheOne7.aternos.me",
+    "port": 63738,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -26,7 +26,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
